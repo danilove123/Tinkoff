@@ -1,2 +1,2 @@
-# Tinkoff
-Tinkoff Bank Olympia
+# Tinkoff olympic tasks
+
